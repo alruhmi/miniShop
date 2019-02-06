@@ -1,0 +1,44 @@
+{
+  "1234": {
+    "name":"تفاح",
+    "cost":30.5 ,
+    "description": "تفاح احمر",
+    "order": 3,
+    "img":"apple.png"
+  },
+  "1235": {
+    "name":"اكفادو",
+    "cost":36.2 ,
+    "description": "اكفادو مصري",
+    "order": 3,
+    "img":"avocado.png"
+  },
+  "1236": {
+    "name":"موز",
+    "cost":38 ,
+    "description": "موز صافي, منقط",
+    "order": 3,
+    "img":"banana.png"
+  },
+  "1237": {
+    "name":"توت",
+    "cost":42.5 ,
+    "description": "توت روسي",
+    "order": 3,
+    "img":"cherry.png"
+  },
+  "1238": {
+    "name":"رمان",
+    "cost":89 ,
+    "description": "رمان صعدي",
+    "order": 3,
+    "img":"garnet.png"
+  },
+  "1239": {
+    "name":"عنب",
+    "cost":67.6 ,
+    "description": "عنب خولاني",
+    "order": 3,
+    "img":"grape.png"
+  }
+}
